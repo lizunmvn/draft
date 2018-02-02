@@ -4,11 +4,14 @@
 
 0. hash 基本概念 
 
-    http://www.cnblogs.com/napoleon_liu/archive/2010/12/29/1920839.html
+    hash 可逆性
+    http://www.cnblogs.com/napoleon_liu/archive/2010/12/29/1920839.html
 
 1. hashmap hashcode 原理
 
     http://www.iteye.com/topic/539465
+    
+    https://www.ibm.com/developerworks/cn/java/j-lo-hash/
 
 2. concurrentHashMap 
 
