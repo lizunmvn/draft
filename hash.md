@@ -1,3 +1,7 @@
+
+
+
+
 0. hash 基本概念 
 
     http://www.cnblogs.com/napoleon_liu/archive/2010/12/29/1920839.html
@@ -12,9 +16,9 @@
 
 3. Ketama一致性哈希算法 
 
-  http://blog.csdn.net/sdausxc/article/details/52059608
+    http://blog.csdn.net/sdausxc/article/details/52059608
   
-  http://blog.csdn.net/xifeijian/article/details/46531423
+    http://blog.csdn.net/xifeijian/article/details/46531423
 
 
 4.Jump Consistent hash
