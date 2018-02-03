@@ -23,12 +23,13 @@
   
     http://blog.csdn.net/xifeijian/article/details/46531423
 
-
 4.Jump Consistent hash
 
-    https://blog.helong.info/blog/2015/03/13/jump_consistent_hash/?utm_source=tool.lu
-    
-5.Wang/Jenkins Hash    
+   https://blog.helong.info/blog/2015/03/13/jump_consistent_hash/?utm_source=tool.lu
 
-    http://d0evi1.com/wang-jenkins-hash/
+5.Wang/Jenkins Hash 
+   
+   http://d0evi1.com/wang-jenkins-hash/
+
+    
     
